@@ -298,8 +298,7 @@ This project addresses eight critical evaluation criteria:
 
 ## 🔗 Links & References
 
-- **Dataset Source:** [Kaggle - Synthetic Financial Fraud Detection]
-- ([https://www.kaggle.com/code/arjunjoshua/predicting-fraud-in-financial-payment-services/input])
+- **Dataset Source:** [Kaggle - Synthetic Financial Fraud Detection] - [https://www.kaggle.com/code/arjunjoshua/predicting-fraud-in-financial-payment-services/input]
 
 
 ---
