@@ -260,7 +260,7 @@ Action: Approve / Review / Block
 
 ---
 
-## 📝 Evaluation Questions Answered
+##  Evaluation Questions Answered
 
 This project addresses eight critical evaluation criteria:
 
