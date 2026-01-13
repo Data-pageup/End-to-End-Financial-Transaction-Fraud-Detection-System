@@ -49,7 +49,7 @@ Develop a machine learning model to:
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 ### 1. **Data Understanding & Exploratory Analysis**
 - Identified fraud concentration in specific transaction types
@@ -95,7 +95,7 @@ errorBalanceDest = oldBalanceDest + amount - newBalanceDest
 |-------|-------|---------------------|
 | Logistic Regression | 0.5717 | Linear baseline — confirms non-linear patterns exist |
 | Random Forest | 0.9987 | Strong performance, slight overfitting tendency |
-| **XGBoost** | **0.9930** | ✅ **Final choice**: Better generalization, production-ready |
+| **XGBoost** | **0.9930** |  **Final choice**: Better generalization, production-ready |
 
 **Why XGBoost?**
 - Native class imbalance handling (`scale_pos_weight`)
